@@ -1,6 +1,6 @@
 # file-handling
 file Handling
-# 📂 File Handling and Exception Handling Assignment
+# 📂 Week 4 Assignment
 
 ## 📖 Description
 This project demonstrates **file handling** and **exception handling** in Python.  
